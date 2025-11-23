@@ -1,7 +1,7 @@
 # Neo4j enhanced Machine Learning
 
 ```bibtex
-@unpublished{schwarz-2023-education,
+@unpublished{schwarz-2023-neo4j,
   title        = {Neo4j enhanced Machine Learning},
   author       = {Schwarz, M.},
   year         = 2023,
